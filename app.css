@@ -1,0 +1,33 @@
+body{
+    display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	color: black;
+	background-color: peachpuff;
+}
+
+.header{
+    text-align: center;
+    margin-top: 3em;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#todoForm{
+   text-align: center;
+}
+
+#todoList{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    list-style: none;
+    font-size: 25px;   
+}
+
+
+
+
+
+
+   
